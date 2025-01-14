@@ -7,6 +7,6 @@ import (
 )
 
 func main() {
-	fmt.Println("Module 1 calling Module 2:")
+	fmt.Println("Module #1 calling Module 2:")
 	module2.DoSomething()
 }
