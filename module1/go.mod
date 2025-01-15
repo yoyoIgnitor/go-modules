@@ -1,4 +1,4 @@
-module github.com/yoyoignitor/go-modules
+module module github.com/yoyoIgnitor/go-modules/module1
 
 go 1.20
 
